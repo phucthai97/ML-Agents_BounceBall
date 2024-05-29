@@ -1,0 +1,65 @@
+{
+    "Pong Player": {
+        "checkpoints": [
+            {
+                "steps": 6500014,
+                "file_path": "results\\=PongPlayer8\\Pong Player\\Pong Player-6500014.onnx",
+                "reward": 1.3166023133804439,
+                "creation_time": 1716901535.1918492,
+                "auxillary_file_paths": [
+                    "results\\=PongPlayer8\\Pong Player\\Pong Player-6500014.pt"
+                ]
+            },
+            {
+                "steps": 6999982,
+                "file_path": "results\\=PongPlayer8\\Pong Player\\Pong Player-6999982.onnx",
+                "reward": 1.4117187492083758,
+                "creation_time": 1716901955.6955438,
+                "auxillary_file_paths": [
+                    "results\\=PongPlayer8\\Pong Player\\Pong Player-6999982.pt"
+                ]
+            },
+            {
+                "steps": 7000012,
+                "file_path": "results\\=PongPlayer8\\Pong Player\\Pong Player-7000012.onnx",
+                "reward": 1.4124513611719303,
+                "creation_time": 1716901955.7263362,
+                "auxillary_file_paths": [
+                    "results\\=PongPlayer8\\Pong Player\\Pong Player-7000012.pt"
+                ]
+            },
+            {
+                "steps": 7499989,
+                "file_path": "results\\=PongPlayer8\\Pong Player\\Pong Player-7499989.onnx",
+                "reward": 1.3371541502447468,
+                "creation_time": 1716903092.2844877,
+                "auxillary_file_paths": [
+                    "results\\=PongPlayer8\\Pong Player\\Pong Player-7499989.pt"
+                ]
+            },
+            {
+                "steps": 7500021,
+                "file_path": "results\\=PongPlayer8\\Pong Player\\Pong Player-7500021.onnx",
+                "reward": 1.3381889765187511,
+                "creation_time": 1716903092.3153534,
+                "auxillary_file_paths": [
+                    "results\\=PongPlayer8\\Pong Player\\Pong Player-7500021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7500021,
+            "file_path": "results\\=PongPlayer8\\Pong Player.onnx",
+            "reward": 1.3381889765187511,
+            "creation_time": 1716903092.3153534,
+            "auxillary_file_paths": [
+                "results\\=PongPlayer8\\Pong Player\\Pong Player-7500021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}

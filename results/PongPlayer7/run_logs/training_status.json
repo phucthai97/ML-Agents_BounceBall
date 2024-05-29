@@ -1,0 +1,56 @@
+{
+    "Pong Player": {
+        "checkpoints": [
+            {
+                "steps": 499979,
+                "file_path": "results\\PongPlayer7\\Pong Player\\Pong Player-499979.onnx",
+                "reward": -0.8127134678712153,
+                "creation_time": 1716888084.2284284,
+                "auxillary_file_paths": [
+                    "results\\PongPlayer7\\Pong Player\\Pong Player-499979.pt"
+                ]
+            },
+            {
+                "steps": 999991,
+                "file_path": "results\\PongPlayer7\\Pong Player\\Pong Player-999991.onnx",
+                "reward": -0.28218181350014426,
+                "creation_time": 1716888497.3406765,
+                "auxillary_file_paths": [
+                    "results\\PongPlayer7\\Pong Player\\Pong Player-999991.pt"
+                ]
+            },
+            {
+                "steps": 1499986,
+                "file_path": "results\\PongPlayer7\\Pong Player\\Pong Player-1499986.onnx",
+                "reward": 0.24539006855470916,
+                "creation_time": 1716888898.026492,
+                "auxillary_file_paths": [
+                    "results\\PongPlayer7\\Pong Player\\Pong Player-1499986.pt"
+                ]
+            },
+            {
+                "steps": 1500019,
+                "file_path": "results\\PongPlayer7\\Pong Player\\Pong Player-1500019.onnx",
+                "reward": 0.2300699278191253,
+                "creation_time": 1716888898.0619683,
+                "auxillary_file_paths": [
+                    "results\\PongPlayer7\\Pong Player\\Pong Player-1500019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500019,
+            "file_path": "results\\PongPlayer7\\Pong Player.onnx",
+            "reward": 0.2300699278191253,
+            "creation_time": 1716888898.0619683,
+            "auxillary_file_paths": [
+                "results\\PongPlayer7\\Pong Player\\Pong Player-1500019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.3.0+cpu"
+    }
+}
